@@ -1,0 +1,7 @@
+{
+    "name": "rate_limit_api",
+    "dependencies": {
+      "express": "latest",
+      "queue": "latest"
+    }
+  }
